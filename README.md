@@ -2,7 +2,9 @@
 
 
 This is visual driven Hexapod that operates through a Neural Network running on an Android application. 
-Online forums, resources, and code manuals used to learn Android and implement different action. 
+Online forums, resources, and code manuals used to learn Android and implement different action -- references
+available upon request.
+
 The applications takes pictures and processes them, feeds them into a trained neural network and sends
 a movement command to the Arduino through Bluetooth. The Arduino then sends a wired signal to a STAMP
 microprocessor which dictates the hexapod (robot) movement.
